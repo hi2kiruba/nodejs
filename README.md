@@ -1,2 +1,5 @@
 # nodejs
-nodejs sample
+nodejs for beginners
+http://nodeschool.io/#workshoppers
+learnyoucode
+
